@@ -15,9 +15,9 @@ requires = [
 ]
 
 setup(
-    name='osbet-core',
+    name='pyramid_cli',
     version='0.1',
-    description='OSBet Core',
+    description='Pyramid Click integration',
     long_description=README + '\n\n' + CHANGES,
     author='Anton Ruhlov',
     author_email='antonruhlov@gmail.com',
