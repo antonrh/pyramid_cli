@@ -15,7 +15,7 @@ requires = [
 ]
 
 setup(
-    name='pyramid_cli',
+    name='pyramid-cli',
     version='0.1',
     description='Pyramid Click integration',
     long_description=README + '\n\n' + CHANGES,
